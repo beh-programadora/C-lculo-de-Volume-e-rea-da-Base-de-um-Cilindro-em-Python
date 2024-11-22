@@ -1,0 +1,7 @@
+.
+├── README.md           # Descrição do projeto
+├── requirements.txt    # Dependências do projeto
+├── .gitignore          # Arquivos e pastas ignorados pelo Git
+├── SRC/                # Diretório contendo o código-fonte
+│   └── calculo_cilindro.py
+└── Dataset/            # Diretório para armazenar arquivos de dados, se necessário
