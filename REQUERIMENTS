@@ -1,0 +1,12 @@
+pandas==2.0.3
+numpy==1.24.3
+
+Descrição da Bíblia
+1. Pandas : Usado
+2. NumPy : Dependência do Pandas, utilizado para operações matemáticas avançadas.
+
+Como criar e usar o arquivo requirements.txt:
+
+1. Salve o conteúdo acima no arquivo chamado requirements.txtna raiz do projeto.
+2. Para instalar as dependências específicas do arquivo, use o comando:
+pip install -r requirements.txt
